@@ -125,10 +125,10 @@ Publish the website in the LocalHost.
                 <hr style="color: blue;">
             </div>
             <div class="booktitle">
-                <h1>Responsive Web Design with HTML5 and CSS</h1>
+                <h1>Artificial Intelligence and Data Science</h1>
             </div>
             <div class="subtitle">
-                Develop future-proof responsive websites using the latest HTML5 and CSS techniques
+                Exploring the Symbiosis of Artificial Intelligence and Data Science
             </div>
             <div class="mypic">
                 <img src="my pic.jpg" width="130" height="145" alt="">
@@ -151,7 +151,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (31).png>)
+![Alt text](<Screenshot (32).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
